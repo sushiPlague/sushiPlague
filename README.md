@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sushiPlague/sushiPlague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![sushiPlague README cover](https://github.com/sushiPlague/sushiPlague/blob/main/images/cover.png)
